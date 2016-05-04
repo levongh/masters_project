@@ -1,6 +1,6 @@
 #pragma once
-#ifndef _GRAPH_DETAIL_GRAPH_HXX
-#define _GRAPH_DETAIL_GRAPH_HXX
+#ifndef _GRAPH_DETAIL_GRAPH_HPP
+#define _GRAPH_DETAIL_GRAPH_HPP
 
 #include <iterator>
 #include "include_files/random-access-set.hpp"
@@ -246,4 +246,4 @@ IteratorHelper<T>::operator-(
 } // namespace graph
 
 
-#endif //_GRAPH_DETAIL_GRAPH_HXX
+#endif //_GRAPH_DETAIL_GRAPH_HPP

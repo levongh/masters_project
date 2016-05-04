@@ -10,11 +10,11 @@
 #include <array>
 #include <algorithm>
 
-#include "andres/partition.hxx" 
-#include "andres/graph/complete-graph.hxx"
-#include "andres/graph/paths.hxx"
-#include "andres/graph/components.hxx"
-#include "andres/graph/shortest-paths.hxx"
+#include "include_files/partition.hpp"
+#include "include_files/graph/complete-graph.hpp"
+#include "include_files/graph/paths.hpp"
+#include "include_files/graph/components.hpp"
+#include "include_files/graph/shortest-paths.hpp"
 
 namespace andres {
 namespace graph {

@@ -9,8 +9,8 @@
 #include <deque>
 #include <algorithm>
 
-#include "andres/graph/complete-graph.hxx"
-#include "andres/graph/shortest-paths.hxx"
+#include "include_files/graph/complete-graph.hpp"
+#include "include_files/graph/shortest-paths.hpp"
 
 
 namespace graph {

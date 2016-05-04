@@ -87,8 +87,6 @@ public:
 
     allocator_type get_allocator() const;
 
-    // TODO: implement C++11 member functions 'emplace' and 'emplace_hint'
-
 private:
     std::vector<Key> vector_;
     Comparison compare_;

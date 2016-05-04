@@ -9,7 +9,7 @@
 #include <map>
 #include <queue>
 
-#include "andres/partition.hxx"
+#include "include_files/partition.hpp"
 
 namespace graph {
 namespace multicut_lifted {

@@ -13,7 +13,7 @@
 
 #include "adjacency.hpp"
 #include "subgraph.hpp"
-#include "visitor.hxx"
+#include "visitor.hpp"
 #include "detail/graph.hpp"
 
 namespace graph {
